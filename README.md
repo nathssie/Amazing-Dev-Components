@@ -1,8 +1,7 @@
 # 🌟 Frontend Dev Components & Mini Projects  
 
 [![Contributors](https://img.shields.io/github/contributors/aniketsingh1023/Amazing-Dev-Components?style=flat-square)](https://github.com/aniketsingh1023/Amazing-Dev-Components/docs/CONTRIBUTOR_LIST.md)  
-[![Issues](https://img.shields.io/github/issues/aniketsingh1023/Amazing-Dev-Components?style=flat-square)](https://github.com/aniketsingh1023/Amazing-Dev-Components/issues)  
-[![Pull Requests](https://img.shields.io/github/issues-pr/aniketsingh1023/Amazing-Dev-Components?style=flat-square)](https://github.com/aniketsingh1023/Amazing-Dev-Components/pulls)  
+  
 [![License](https://img.shields.io/github/license/aniketsingh1023/Amazing-Dev-Components?style=flat-square)](./LICENSE)  
 
 ---
